@@ -12,7 +12,7 @@ Your project is to build an application that simply shows the last image that wa
 
 Your work will be evaluated based on
 
--How well you followed the project requirements / instructions
--What you did differently than other candidates
--The quality of your code, your commits and the organization of your components, files, etc.
--What you innovated / added / created beyond what was listed in the project requirements
+- How well you followed the project requirements / instructions
+- What you did differently than other candidates
+- The quality of your code, your commits and the organization of your components, files, etc.
+- What you innovated / added / created beyond what was listed in the project requirements

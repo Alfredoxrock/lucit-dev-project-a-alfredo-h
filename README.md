@@ -46,3 +46,50 @@ A successful project will
 - Please call this repo lucit-dev-project-a-{your-first-name-and-last-initial}
 - Notify Lucit by sending an email to support@lucit.cc with the exact subject line Entry Level Developer Project A : Submission
 
+## Instructions
+
+- First clone the project git@github.com:Alfredoxrock/lucit-dev-project-a-alfredo-h.git
+``` git clone git@github.com:Alfredoxrock/lucit-dev-project-a-alfredo-h.git
+```
+
+- Now go to the project directory
+``` cd process_scheduler
+```
+
+In the project directory you can run the following command using command line on any terminal to start the project. Open http://localhost:3000 to view it on your browser.
+
+- `npm start` 
+
+The following command launches the test runner in the interactive watching mode.
+
+- `npm run` 
+
+To build the application for production inside the build folder run the following command
+
+- `npm build`
+
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+## Guide
+
+To observe the guide of the application, click here: https://lyrical-saffron-ef9.notion.site/Guide-6aa77e70032a4d2c9c3f619d8b8fc915
+
+## Documentation
+
+To take a look on the documenttion of this application, click here: https://lyrical-saffron-ef9.notion.site/Documentation-e80c145306f04cea83fbbbe272f8a942
+
+## Technologies Used
+
+- npm
+- Git
+- Lucit API
+- Powershell
+
+## Libraries
+
+- Bootstrap.js
+- Router dom
+- React slide show
+- React.js
+
+

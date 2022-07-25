@@ -55,7 +55,7 @@ git clone git@github.com:Alfredoxrock/lucit-dev-project-a-alfredo-h.git
 
 Now go to the project directory
 ``` 
-cd process_scheduler
+cd lucit-dev-project-a-alfredo-h
 ```
 
 In the project directory you can run the following command using command line on any terminal to start the project. Open http://localhost:3000 to view it on your browser.

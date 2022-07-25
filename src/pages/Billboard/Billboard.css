@@ -1,0 +1,19 @@
+html, body {
+    margin:0px;
+    padding:0px;
+  }
+
+
+
+
+img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100%;
+}
+
+.mydiv {
+    height:100vh;
+}
+

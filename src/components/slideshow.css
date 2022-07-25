@@ -1,0 +1,10 @@
+.slide-container .nav {
+    display: none;
+  }
+  
+  .slide-container .image-container img {
+    position:absolute;
+    width: 464px;
+    height: 256px;
+    left:0px;
+  }

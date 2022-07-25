@@ -49,11 +49,13 @@ A successful project will
 ## Instructions
 
 - First clone the project git@github.com:Alfredoxrock/lucit-dev-project-a-alfredo-h.git
-``` git clone git@github.com:Alfredoxrock/lucit-dev-project-a-alfredo-h.git
+``` 
+git clone git@github.com:Alfredoxrock/lucit-dev-project-a-alfredo-h.git
 ```
 
-- Now go to the project directory
-``` cd process_scheduler
+Now go to the project directory
+``` 
+cd process_scheduler
 ```
 
 In the project directory you can run the following command using command line on any terminal to start the project. Open http://localhost:3000 to view it on your browser.
@@ -84,6 +86,9 @@ To take a look on the documenttion of this application, click here: https://lyri
 - Git
 - Lucit API
 - Powershell
+- Javascript
+- CSS
+- HTML
 
 ## Libraries
 

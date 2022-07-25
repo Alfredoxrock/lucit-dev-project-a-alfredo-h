@@ -16,3 +16,33 @@ Your work will be evaluated based on
 - What you did differently than other candidates
 - The quality of your code, your commits and the organization of your components, files, etc.
 - What you innovated / added / created beyond what was listed in the project requirements
+
+## Pre-Requisites
+
+In order to build this project you will need
+
+- The Lucit App – You will receive an Invite to the App – Which can you can install from the App Store or Play Store (see here for help https://lucit.cc/help/#1631108430399-48f23e04-21ef OR, you can login to the application at https://layoutui.lucit.cc
+
+- An API Token – You must REQUEST an API Token, by submitting a HELP Request from within the Lucit App – Click on “Help” in the toolbar and then type the following into the Help Request box : “API Token Request for Entry Level Developer Project : {Your Name}”
+
+- A github account. You will push your project to your github account for us to review
+
+## Project Requirements
+
+A successful project will
+
+- Be able to run on any windows / mac / linux machine in the browser
+- Must be able to launch from the cli (e.g. using something like npm start )
+- Look great on a variety of screen sizes (from a 60″ TV down to a small 13″ Screen)
+- Take into account a large range of billboard image sizes (some are 160px wide, some are 1800px wide, some are long rectangles, some are short and square)
+- Shows a new image every XXX seconds
+- Always shows (or attempts to show) a different image from a different campaign than the previous one that was displayed
+- Show the location and operator of the digital billboard that the image appeared on
+
+## Delivery
+
+- Your project should be
+- Pushed to a new repo in your personal github account.
+- Please call this repo lucit-dev-project-a-{your-first-name-and-last-initial}
+- Notify Lucit by sending an email to support@lucit.cc with the exact subject line Entry Level Developer Project A : Submission
+
